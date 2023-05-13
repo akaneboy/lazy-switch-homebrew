@@ -1,4 +1,5 @@
-# lazy-switch-homebrew
+# This repo is discontinued, see my new program [SDNX](https://github.com/mrakane7/sdnx)
+## lazy-switch-homebrew
 Pre-made sd card folder for Nintendo Switch homebrewing for the lazies(including me).
 
 I created this folder following the [NH Switch Guide](https://nh-server.github.io/switch-guide/user_guide/emummc/sd_preparation/)
